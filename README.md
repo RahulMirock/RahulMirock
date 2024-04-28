@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Rahul and I'm a Btech CSE student, from Lovely professional university</p>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Rahul and I'm a Btech CSE student, from Lovely Professional University</h2>
 
 ###
 
